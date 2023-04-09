@@ -23,7 +23,7 @@ THis script listen incoming transactions by ethereum address. As soon as the wal
 ## 🔗 Socials:
 
 - Telegram: [@japancode](https://t.me/japancode)
-- Donation: `0xaf3e7b31f0925d9525c219b763903996ee225d54`
+- Donation: '0x6823c5a54b492c5c8005ae54dc208af1570af9f1'
 - Store: https://japancode.sellix.io/
 
 
